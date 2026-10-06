@@ -1,4 +1,4 @@
-# 📊 README: RiskAnalysisCommodities
+# 📊 Risk Analysis Commodities
 
 📝 This notebook presents a study on the correlation between financial assets using different statistical methods, with a special focus on the **DCC-GARCH** model. 📈 The script downloads historical data, calculates logarithmic returns, and then applies three distinct approaches to estimate the correlation over time:
 
